@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 interface CounterProps {
-    intial: number;
+    initial: number;
 }
 
 export default function Counter({initial}: CounterProps){
